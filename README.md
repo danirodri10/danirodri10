@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm graduated in Multiplatform Apps Development at IES de Teis in Vigo.\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Architecture and IA.\
-✉️ &nbsp;Feel free to contact me at daanirodri10@gmail.com.\
+✉️ &nbsp;Feel free to contact me at daanirodri10@gmail.com.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -38,9 +38,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danirodri10&theme=dark&hide_border=true"/>
 </p>
-
-
-### 🤝🏻 &nbsp;Connect with Me
 
 ### 🤝🏻 &nbsp;Connect with Me
 

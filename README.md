@@ -42,7 +42,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-rodríguez-martínez-0b600734b/" target="_blank">
+  <a href="https://www.linkedin.com/in/danirodri/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;

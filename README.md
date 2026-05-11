@@ -14,7 +14,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,cs,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,python)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Databases
 
@@ -22,7 +22,7 @@
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
-[![Tools](https://skillicons.dev/icons?i=git,github,androidstudio,docker,graphql,hibernate,idea,maven,spring,unity,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,androidstudio,docker,graphql,hibernate,idea,maven,spring,vscode)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
 

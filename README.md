@@ -3,10 +3,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;Currently I´m working as a Backend Veveloper intern at Gradiant.\
+👨‍💻 &nbsp;Currently I´m working as a Indie Developer and studying Computer Science Degree.\
 💡 &nbsp;I enjoy exploring new technologies and developing optimal and scalable software solutions.\
 🎓 &nbsp;I'm graduated in Multiplatform Apps Development at IES de Teis in Vigo.\
-🌱 &nbsp;I'm on track for learning more about Microservice Architecture, Web3 and IA.\
+🌱 &nbsp;I'm on track for learning more about Microservice Architecture Mobile Development.\
 ✉️ &nbsp;Feel free to contact me at daanirodri10@gmail.com.
 
 
